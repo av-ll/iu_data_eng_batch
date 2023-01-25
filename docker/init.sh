@@ -17,8 +17,6 @@ python3 jsondata/mongo.py
 
 # removes any unnecessary data components or dependencies
 
-pip3 uninstall pymongo python-dateutil tqdm
-
 apt-get remove -y python3 unzip python3-pip 
 
 apt-get autoremove
