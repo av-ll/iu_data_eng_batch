@@ -15,10 +15,4 @@ echo 'Loading data into database, please wait, it might take a while as there ar
 
 python3 jsondata/mongo.py
 
-# removes any unnecessary data components or dependencies
-
-apt-get remove -y python3 unzip python3-pip 
-
-apt-get autoremove
-
 echo "Script execution complete"
