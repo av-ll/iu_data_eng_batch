@@ -2,7 +2,7 @@
 University project 
 
 Clone the repository with :
-git clone https://github.com/av-ll/iu_data_eng_batch/new/main?readme=1
+git clone https://github.com/av-ll/iu_data_eng_batch/
 
 change directory to the cloned repository :
 cd iu_data_eng_batch
